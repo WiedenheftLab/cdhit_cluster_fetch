@@ -1,6 +1,7 @@
 # cdhit_cluster_fetch
 
 Author: Murat Buyukyoruk
+
 Associated lab: Wiedenheft lab
 
         cdhit_cluster_fetch help:
